@@ -1,0 +1,18 @@
+ul li{
+    height: 35px;
+    list-style: none;
+
+}
+div {
+    border: 1px;
+    border-style: groove;
+    margin: 0 auto;
+    margin: 50px;
+    margin: 0 auto;
+    width: 270px;
+    height: 300px;
+    border-radius: 5px;
+}
+h3 {
+    text-align: center;
+}
